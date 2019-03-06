@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jun 14 09:55:04 CST 2018
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=Algorithm_fat.jar
+manifest.mergeall=false
+manifest.mainclass=jsonFileIO.ReadJsonTest
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|Algorithm>~annotation/;<po|Algorithm>~asy/;<po|Algorithm>~BigDecimal/;<po|Algorithm>~BIONIOAIO/;<po|Algorithm>~callBack/;<po|Algorithm>~com/;<po|Algorithm>~DecimalFormat/;<po|Algorithm>~demo/;<po|Algorithm>~demo01/;<po|Algorithm>~designPattern/;<po|Algorithm>~fileIO/;<po|Algorithm>~formula/;<po|Algorithm>~generic/;<po|Algorithm>~IP/;<po|Algorithm>~java/;<po|Algorithm>~java8/;<po|Algorithm>~javaAndC/;<po|Algorithm>~javaScriptEngine/;<po|Algorithm>~Lambda/;<po|Algorithm>~method/;<po|Algorithm>~method02/;<po|Algorithm>~reflect/;<po|Algorithm>~sciNumExp/;<po|Algorithm>~serializable/;<po|Algorithm>~socketDemo/;<po|Algorithm>~test/;<po|Algorithm>~testZone/;<po|Algorithm>~Timer/;<po|Algorithm>~transientTest/;<po|Algorithm>~weakReference/;<po|Algorithm>~BufferFillDrain.class;<po|Algorithm>~ExcelTest.class;<po|Algorithm>~ExcelUtil.class;<po|Algorithm>~InterfaceTest.class;<po|Algorithm>~MapEntryTest.class;<po|Algorithm>~ReceiveMessUDPSever.class;<po|Algorithm>~RedisJava.class;<po|Algorithm>~RedisKeyJava.class;<po|Algorithm>~RedisListJava.class;<po|Algorithm>~RedisStringJava.class;<po|Algorithm>~SendMessUDP.class;<po|Algorithm>~Test2.class;<po|Algorithm>~TestMain.class;<jar|quartz-all-2.0.jar>;<jar|jedis-2.9.0.jar>;<jar|junit-4.12-sources.jar>;<jar|junit-4.12.jar>;<jar|commons-net-3.6-sources.jar>;<jar|commons-net-3.6.jar>;<jar|thumbnailator-0.4.8-sources.jar>;<jar|thumbnailator-0.4.8.jar>;<jar|expression4j.jar>;<jar|expression4jCFG.jar>;<jar|poi-3.14.jar>;<jar|poi-ooxml-3.14.jar>;<jar|poi-ooxml-schemas-3.14.jar>
+includes=
