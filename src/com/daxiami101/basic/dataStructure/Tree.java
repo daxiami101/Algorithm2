@@ -10,6 +10,7 @@ public class Tree<AnyType extends Comparable<? super AnyType>>
 
         BinaryNode(T theElement, BinaryNode<T> lt, BinaryNode<T> rt)
         {
+        	
             element = theElement;
             left = lt;
             right = rt;
