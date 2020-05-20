@@ -1,4 +1,4 @@
-package com.daxiami101.leetcode.MaximumDepthofBinaryTree;
+package com.daxiami101.leetcode.tree.MaximumDepthofBinaryTree;
 public class Tree<AnyType extends Comparable<? super AnyType>>
 {
     private static class BinaryNode<T>

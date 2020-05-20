@@ -1,4 +1,4 @@
-package com.daxiami101.leetcode.MaximumDepthofBinaryTree;
+package com.daxiami101.leetcode.tree.MaximumDepthofBinaryTree;
 
 public class TreeOperation {
 	public void levelOrder(TreeNode Node) {

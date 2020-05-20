@@ -1,4 +1,4 @@
-package com.daxiami101.leetcode.SameTree;
+package com.daxiami101.leetcode.tree.SameTree;
 
 
 

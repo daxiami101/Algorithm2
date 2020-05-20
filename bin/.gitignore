@@ -1,4 +1,3 @@
-/com/
 /BIONIOAIO/
 /BigDecimal/
 /BufferFillDrain.class
@@ -18,6 +17,7 @@
 /annotation/
 /asy/
 /callBack/
+/com/
 /dateFormatError/
 /demo/
 /demo01/
@@ -25,7 +25,6 @@
 /fileIO/
 /formula/
 /generic/
-/getIP.class
 /java/
 /java8/
 /javaAndC/
@@ -42,3 +41,4 @@
 /testZone/
 /transientTest/
 /weakReference/
+/getIP.class

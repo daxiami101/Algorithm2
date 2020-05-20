@@ -1,4 +1,8 @@
 package com.daxiami101.basic.dataStructure;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Tree<AnyType extends Comparable<? super AnyType>>
 {
     private static class BinaryNode<T>
@@ -106,7 +110,7 @@ public class Tree<AnyType extends Comparable<? super AnyType>>
             levelOrder(Node, i);
         }
     }
-
+   
     private void levelOrder(BinaryNode<AnyType> Node, int level) {
         if (Node == null || level < 1) {
             return;
@@ -117,6 +121,7 @@ public class Tree<AnyType extends Comparable<? super AnyType>>
             return;
         }
 
+        
         // ×ó×ÓÊ÷
         levelOrder(Node.left, level - 1);
 
