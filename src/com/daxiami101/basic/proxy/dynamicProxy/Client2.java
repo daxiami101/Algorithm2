@@ -13,6 +13,7 @@ public class Client2 {
         // 1. 创建被代理的对象，UserService接口的实现类
         UserServiceImpl userServiceImpl = new UserServiceImpl();
         // 2. 获取对应的 ClassLoader
+        
         ClassLoader classLoader = userServiceImpl.getClass().getClassLoader();
         // 3. 获取所有接口的Class，这里的UserServiceImpl只实现了一个接口UserService，
         Class[] interfaces = userServiceImpl.getClass().getInterfaces();
